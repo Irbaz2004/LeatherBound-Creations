@@ -1,0 +1,25 @@
+export  const ADD_TO_CART ='ADD_TO_CART';
+export  const REM_TO_CART ='REM_TO_CART';
+export  const DEL_TO_CART ='DEL_TO_CART';
+export const Produ_list='Produ_list';
+export const Produ_list1='Produ_list1';
+export const Produ_list2='Produ_list2';
+export const Produ_list3='Produ_list3';
+export const Produ_list4='Produ_list4';
+export const Produ_list5='Produ_list5';
+export const Produ_list6='Produ_list6';
+export const Produ_list7='Produ_list7';
+export const Produ_list8='Produ_list8';
+export const Produ_list9='Produ_list9';
+
+export const SET_produ_list='SET_produ_list';
+export const SET_produ_list1='SET_produ_list1';
+export const SET_produ_list2='SET_produ_list2';
+export const SET_produ_list3='SET_produ_list3';
+export const SET_produ_list4='SET_produ_list4';
+export const SET_produ_list5='SET_produ_list5';
+export const SET_produ_list6='SET_produ_list6';
+export const SET_produ_list7='SET_produ_list7';
+export const SET_produ_list8='SET_produ_list8';
+export const SET_produ_list9='SET_produ_list9';
+export const SET_produ_list10='SET_produ_list10';
